@@ -45,6 +45,9 @@ PRECAUTIONS:
 
 ![WhatsApp Image 2025-11-11 at 12 05 05_d916a002](https://github.com/user-attachments/assets/967dcaca-000b-4b93-9337-fb0400b15371)
 
+<img width="733" height="837" alt="image" src="https://github.com/user-attachments/assets/bcb5922d-d4c7-4931-b1be-f787018f4389" />
+
+
 
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
